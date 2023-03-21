@@ -152,10 +152,10 @@ Name the SLA Plan, "SEV-A", set it as "Active", give it a Grace Period of "1" ho
 <p>
 8. Configure Help Topics
 </p>
-<img src=".png" height="60%" width="60%">
+<img src="https://imgur.com/undefined.png" height="60%" width="60%">
 </p>
 <p>
-
+From the Admin Panel, click on "Manage", then "Help Topics", then "Add New Help Topic". 
 </p>
 <img src=".png" height="60%" width="60%">
 </p>
