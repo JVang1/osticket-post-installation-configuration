@@ -62,14 +62,19 @@ Click on "Permissions", under "Tickets", "Tasks", and "Knowledgebase" check mark
 <p>
 From the Admin Panel, click on "Agents", then "Departments", then "Add New Department". 
 </p>
-
+<p>
+<img src="https://imgur.com/wQW5v1E.png" height="60%" width="60%">
+</p>
+<p>
+Name the deparment, "System Administrators", then scroll down and click on "Create Dept".  
+</p>
 <br />
 
-<p>
+
 <p>
 3. Configure Teams
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
