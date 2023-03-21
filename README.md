@@ -33,22 +33,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 1. Configure Roles
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%">
+<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%">
 </p>
 <p>
 From the Admin Panel, click on "Agents", then "Roles", then "Add New Role". 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%">
+<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%">
 </p>
 <p>
 Name the role, "Supreme Admin". 
 </p>
 <p>
-<img src="https://imgur.com/T6I5tni.png" height="50%" width="50%">
+<img src="https://imgur.com/T6I5tni.png" height="60%" width="60%">
 </p>
 <p>
-Clik on "Permissions", under "tickets", "tasks", and "knowledgebase" check mark all boxes, then "save changes".   
+Click on "Permissions", under "tickets", "tasks", and "knowledgebase" check mark all boxes, then "save changes".   
 </p>
 <br />
 
