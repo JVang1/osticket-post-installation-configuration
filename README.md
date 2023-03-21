@@ -45,10 +45,10 @@ From the Admin Panel, click on "Agents", then "Roles", then "Add New Role".
 Name the role, "Supreme Admin". 
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+<img src="https://imgur.com/T6I5tni.png" height="80%" width="80%">
 </p>
 <p>
-Under Permissions, check mark all boxes, then save changes.   
+Clik on "Permissions", under "tickets", "tasks", and "knowledgebase" check mark all boxes, then "save changes".   
 </p>
 <br />
 
