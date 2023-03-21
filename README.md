@@ -48,7 +48,7 @@ Name the role, "Supreme Admin", then click on "Add Role".
 <img src="https://imgur.com/T6I5tni.png" height="60%" width="60%">
 </p>
 <p>
-Click on "Permissions", under "ickets", "tasks", and "knowledgebase" check mark all boxes, then "save changes".   
+Click on "Permissions", under "Tickets", "Tasks", and "Knowledgebase" check mark all boxes, then "Save Changes".   
 </p>
 <br />
 
