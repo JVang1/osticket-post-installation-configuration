@@ -136,10 +136,10 @@ Name the user, "Karen Karen", then give the user an email address, then click on
 <p>
 7. Configure SLA
 </p>
-<img src=".png" height="60%" width="60%">
+<img src="https://imgur.com/fCgnL46.png" height="60%" width="60%">
 </p>
 <p>
-
+From the Admin Panel, click on "Manage", then "SLA", then "Add New SLA Plan". 
 </p>
 <img src=".png" height="60%" width="60%">
 </p>
