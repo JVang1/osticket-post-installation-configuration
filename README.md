@@ -144,7 +144,7 @@ From the Admin Panel, click on "Manage", then "SLA", then "Add New SLA Plan".
 <img src="https://imgur.com/lkAoTW0.png" height="60%" width="60%">
 </p>
 <p>
-Name the SLA Plan, "SEV-A", set it as "Active", give it a Grace Period of "1" hour, set the schedule "24/7", then click on "Add Plan".  
+Name the SLA Plan, "SEV-A", set it as "Active", give it a Grace Period of "1" hour, set the schedule "24/7", then click on "Add Plan". Repeat above steps and create two other SLA Plans called "SEV-B (4 hour, 24/7)" and "SEV-C (8 hours, business hours)".  
 </p>
 <br />
 
