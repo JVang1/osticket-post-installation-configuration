@@ -141,10 +141,10 @@ Name the user, "Karen Karen", then give the user an email address, then click on
 <p>
 From the Admin Panel, click on "Manage", then "SLA", then "Add New SLA Plan". 
 </p>
-<img src=".png" height="60%" width="60%">
+<img src="https://imgur.com/lkAoTW0.png" height="60%" width="60%">
 </p>
 <p>
-
+Name the SLA Plan, "SEV-A", set it as "Active", give it a Grace Period of "1" hour, set the schedule "24/7", then click on "Add Plan".  
 </p>
 <br />
 
