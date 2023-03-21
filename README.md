@@ -74,10 +74,16 @@ Name the deparment, "System Administrators", then scroll down and click on "Crea
 <p>
 3. Configure Teams
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="60%" width="60%">
+<img src="https://imgur.com/sGPZq0W.png" height="60%" width="60%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Admin Panel, click on "Agents", then "Teams", then "Add New Team". 
+</p>
+<p>
+<img src="https://imgur.com/vL7TJHv.png" height="60%" width="60%">
+</p>
+<p>
+Name the team, "Level I Support", then click on "Create Team". Repeat above steps and create another team called "Level II Support".    
 </p>
 <br />
 
