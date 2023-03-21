@@ -28,16 +28,30 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
+
 <p>
 1. Configure Roles
 </p>
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
 </p>
 <p>
-From the Admin Panel, click on "Agents", "Roles"
+From the Admin Panel, click on "Agents", then "Roles", then "Add New Role". 
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+</p>
+<p>
+Name the role, "Supreme Admin". 
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+</p>
+<p>
+Under Permissions, check mark all boxes, then save changes.   
 </p>
 <br />
+
 
 <p>
 <p>
