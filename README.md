@@ -152,15 +152,15 @@ Name the SLA Plan, "SEV-A", set it as "Active", give it a Grace Period of "1" ho
 <p>
 8. Configure Help Topics
 </p>
-<img src="https://imgur.com/undefined.png" height="60%" width="60%">
+<img src="https://imgur.com/ffyOG6W.png" height="60%" width="60%">
 </p>
 <p>
 From the Admin Panel, click on "Manage", then "Help Topics", then "Add New Help Topic". 
 </p>
-<img src=".png" height="60%" width="60%">
+<img src="https://imgur.com/nbLIPqd.png" height="60%" width="60%">
 </p>
 <p>
-
+Name the Help Topic, "Business Critical Outage", set it as "Active", then click on "Add Topic". Repeat above steps and create three other Help Topics called "Personal Computer Issues", "Equipment Request", and "Password Reset". 
 </p>
 <br />
 
