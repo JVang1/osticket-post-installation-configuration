@@ -87,55 +87,67 @@ Name the team, "Level I Support", then click on "Create Team". Repeat above step
 </p>
 <br />
 
-<p>
+
 <p>
 4. Allow Anyone to Create Tickets
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+<img src="https://imgur.com/IFC33lt.png" height="60%" width="60%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Admin Panel, click on "Settings", then "Users". Under Authentication Settings, ensure the Registration Required box is unchecked.  
 </p>
 <br />
 
-<p>
+
 <p>
 5. Configure Agents (Workers)
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+<img src="https://imgur.com/Edldjgp.png" height="60%" width="60%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Admin Panel, click on "Agents", then "Agents", then "Add New Agent".
+</p>
+<p>
+<img src="https://imgur.com/LSKCsJb.png" height="60%" width="60%">
+</p>
+<p>
+Name the agent, "Jane Doe", then give the agent an email address and username, then click on "Create". Repeat above steps and create another agent called "John Doe".   
 </p>
 <br />
 
-<p>
+
 <p>
 6. Configure Users (Customers)
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+<img src="https://imgur.com/brEl9Ma.png" height="60%" width="60%">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Agent Panel, click on "Users", then "User Directory", then "Add User".
+</p>
+<p>
+<img src="https://imgur.com/Nv0w7V8.png" height="60%" width="60%">
+</p>
+<p>
+Name the user, "Karen Karen", then give the user an email address, then click on "Add User". Repeat above steps and create another user called "Ken Ken".   
 </p>
 <br />
 
-<p>
+
 <p>
 7. Configure SLA
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+<img src=".png" height="60%" width="60%">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-<p>
+
 <p>
 8. Configure Help Topics
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%">
+<img src=".png" height="60%" width="60%">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
